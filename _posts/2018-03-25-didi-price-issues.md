@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "滴滴真的“大数据杀熟”吗？"
-categories: GitHub
+categories: News
 tags: 谣言 滴滴 大数据 定价 张博 测试
 ---
 
