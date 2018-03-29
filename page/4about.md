@@ -57,7 +57,7 @@ type: page
 ## 联系我
 
 * GitHub：[kaiwangic](https://github.com/kaiwangic)
-* E-mail：drkaiwang#live.com
+* E-mail：kai#drkaiwang.com
 
 
 
