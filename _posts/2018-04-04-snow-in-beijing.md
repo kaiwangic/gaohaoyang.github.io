@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  清明时节雪纷纷
-categories: News
+categories: Diary
 tags: 清明 雪 北京 天气 随笔 心情
 ---
 
