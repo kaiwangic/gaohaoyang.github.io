@@ -9,10 +9,13 @@ type: page
 * content
 {:toc}
 
+## About Me
+Dr. Kai Wang completed PhD in Engineering from Imperial College London. Currently he works in Data Science Department at Didi Chuxing.
 
 ## 关于我
 
-王凯，博士毕业于帝国理工学院，现就职于滴滴数据科学部。目前单身，欢迎推荐或自荐合适的姑娘。
+王凯，博士毕业于帝国理工学院，现就职于滴滴数据科学部。
+目前单身，欢迎推荐或自荐合适的姑娘。
 
 
 ## 荣誉称号
