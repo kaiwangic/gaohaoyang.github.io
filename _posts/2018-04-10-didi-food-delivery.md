@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  滴滴外卖上线首日市场份额跃升第一，大量产品技术设计运营职位火热招聘中
-categories: Diary
+categories: News
 tags: 滴滴 外卖 首日 第一 美团 工作 内推 招聘
 ---
 
