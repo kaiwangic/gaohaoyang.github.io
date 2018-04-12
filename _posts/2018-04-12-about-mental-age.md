@@ -2,7 +2,7 @@
 layout: post
 title:  关于心理年龄的一种定义
 categories: Notes
-tags: 心理年龄 定义 笔记
+tags: 心理年龄 定义 笔记 梦想 好奇心 保持年轻
 ---
 
 * content
