@@ -10,7 +10,7 @@ type: page
 {:toc}
 
 ## About Me
-Dr. Kai Wang received PhD in Engineering from Imperial College London. Currently he works in Data Science Department at Didi Chuxing.
+Dr. Kai Wang received his PhD in Engineering from Imperial College London. Currently he works in Data Science Department at Didi Chuxing.
 
 ## 关于我
 
