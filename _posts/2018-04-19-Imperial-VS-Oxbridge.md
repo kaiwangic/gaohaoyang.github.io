@@ -38,4 +38,4 @@ Similarly, there is very little difference in the popularity of these three univ
 
 So why do some students not consider Imperial College London to be a competitor to Oxford and Cambridge? Well, in terms of building their elite international reputation, you have to remember that Oxford and Cambridge University have a 700 year headstart! I would argue that the top London universities are often underrated in comparison to Oxbridge. The London university experience is very different to Oxbridge however, and attracts a different student body.
 
-#### From Quora:https://www.quora.com/Why-isn-t-Imperial-College-London-as-highly-reputed-popular-as-Oxford-and-Cambridge-despite-its-excellence-in-STEM-Are-they-over-rated/answer/Joseph-Robbins-14?share=efbc8901&srid=unuGb
+#### From Quora: https://www.quora.com/Why-isn-t-Imperial-College-London-as-highly-reputed-popular-as-Oxford-and-Cambridge-despite-its-excellence-in-STEM-Are-they-over-rated/answer/Joseph-Robbins-14?share=efbc8901&srid=unuGb
